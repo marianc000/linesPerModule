@@ -1,0 +1,54 @@
+ 
+ 
+table {
+    border-collapse: collapse;
+    margin: 1em auto;
+}
+
+ th, td {
+  padding: 0.3em;
+  text-align: left;
+  /* border-bottom: 1px solid #ddd; */
+}
+
+* {
+    font-family: arial;
+}
+
+caption {
+    font-size: 1.2em;
+}
+
+.controls {
+    margin-bottom: 1em;
+}
+
+button.selected {
+    background-color: palegreen;
+}
+
+#startBtn {
+    margin-left: 2em;
+    background-color: orange;
+}
+
+tbody {
+    border-bottom: 3px solid gainsboro;
+}
+
+tr {
+    border-bottom: 1px solid gainsboro;
+}
+
+h1 {
+    margin-bottom: 0.2em;
+    font-size: 1.2em;
+}
+
+.header {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
